@@ -1,0 +1,24 @@
+{
+    "folders": [
+        {
+            "name": "8888",
+            "path": "",
+            "rule": {
+                "start_column": "",
+                "end_column": null,
+                "warning_days": 180,
+                "stability_days": 365
+            }
+        },
+        {
+            "name": "999",
+            "path": "",
+            "rule": {
+                "start_column": "",
+                "end_column": null,
+                "warning_days": 180,
+                "stability_days": 365
+            }
+        }
+    ]
+}
